@@ -1,0 +1,8 @@
+## Interface: 60200
+## Title: Cast Status Indicator
+## Notes: Displays an indicator image based on the player's casting status.
+## Version: 1.0
+## Author: Elijahkx
+## DefaultEnabled: 1
+
+core.lua
